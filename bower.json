@@ -1,0 +1,24 @@
+{
+  "name": "Sassaparilla",
+  "version": "2.0.0",
+  "homepage": "sass.fffunction.co",
+  "description": "Sassaparilla is a fast way to start your responsive web design projects that harnesses the power of Sass and Compass. It comes with just enough to get you on your way, and no unnecessary extras, so you can spend less time deleting what you don’t need and more time building.",
+  "keywords": [
+    "sass",
+    "compass",
+    "typography",
+    "grid"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "assets/demo",
+    "assets/js",
+    "assets/css/screen.css",
+    "assets/css/screen.min.css",
+    "demo.html",
+    "index.html",
+    "grid.html",
+    "package.png"
+  ]
+}
